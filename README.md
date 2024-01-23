@@ -16,63 +16,36 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 3: View the GitHub Copilot tab with multiple suggestions
+## Finish
 
-_Nice work! You just used AI code suggestions within a Javascript file by using GitHub Copilot :sparkles:_
+_Congratulations friend, you've completed this course!_
 
-Keep in mind that as you continue to use copilot, you may not want some of the suggestions GitHub Copilot offers. GitHub Copilot will show you multiple suggestions in a new tab.
+<img src="https://octodex.github.com/images/welcometocat.png" alt=celebrate width=300 align=right>
 
-### :keyboard: Activity: Pull the latest code to the Codespace repo.
+Here's a recap of all the tasks you completed:
 
-> **Note**
-> Pull MUST be done prior to the next activity.
+- Set up Copilot inside a Codespace.
+- Use Copilot to accept suggested code.
+- Use Copilot's hub for alternate suggestions.
+- Leverage comments to have Copilot auto-suggest code.
 
-1. Use the VS Code terminal to pull the latest code:
+### Additional learning and resources
 
-   ```
-   git pull
-   ```
+- [Copilot for Individuals](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-individuals)
+- [Copilot for Business](https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-business)
+- [Getting started with Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-visual-studio-code)
+- [Configure Copilot settings](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-settings-on-githubcom)
 
-### :keyboard: Activity: Add another Javascript method and view all suggestions
+### What's next?
 
-1. From inside the codespace in the VS Code explorer window, create a new file. Note: If you closed the Codespace from above please open it back up or create a new Codespace.
-2. Name the file `member.js`
-3. In the `member.js` file, type the following function header.
-   ```
-   function skillsMember()
-   ```
-4. Stop typing and view the Copilot suggestion by hovering over the red squiggly and select the `...`
-5. Click `Open Completions Panel`. Copilot will synthesize around 10 different code suggestions. You should see something like this:
-   ![Screen Shot 2023-04-27 at 10 06 55 AM](https://user-images.githubusercontent.com/26442605/234937592-d196bd5e-8ac2-4d9a-87f4-94e8a9b6a417.png)
-6. Find a solution you like and click `Accept Solution`.
-7. Your `member.js` file will be updated with your solution.
-
-### :keyboard: Activity: Push code to your repository from the codespace
-
-1. Use the VS Code terminal to add the `member.js` file to the repository:
-
-   ```
-   git add member.js
-   ```
-
-2. Next from the VS Code terminal stage and commit the changes to the repository:
-
-   ```
-   git commit -m "Copilot second commit"
-   ```
-
-3. Finally from the VS Code terminal push to code to the repository:
-
-   ```
-   git push
-   ```
-
-**Wait about 60 seconds then refresh your repository landing page for the next step.**
+- [We'd love to hear what you thought of this course](https://github.com/orgs/skills/discussions/categories/code-with-copilot).
+- [Learn another GitHub skill](https://github.com/skills).
+- [Read the Get started with GitHub docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
